@@ -18,7 +18,7 @@ export default function Header() {
     <header className="site-header" id="top">
       <div className="wrap header-inner">
         <a href="#home" className="brand" aria-label="Haamid Hassan – home">
-          <span className="brand-mark"><img src="/favicon-96.png" alt="" width="40" height="40" /></span>
+          <span className="brand-mark">H</span>
           <span className="brand-name">Haamid Hassan</span>
         </a>
         <button
